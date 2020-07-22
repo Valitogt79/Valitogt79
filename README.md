@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rob_Alonzo79-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rob_Alonzo79)](https://twitter.com/Rob_Alonzo79) 
-<p>Hola, Mi nombre es Oswaldo, estoy empezando mi camino como desarrollador FrontEnd, así mismo quiero posteriormente aprender BackEnd y convertirme en un programador FullStack, con el tiempo y esmero, alcancera esta meta.
+<p>Hola, Mi nombre es Oswaldo, estoy empezando mi camino como desarrollador Frontend, así mismo quiero posteriormente aprender Backend y convertirme en un programador FullStack, con el tiempo y esmero, alcanzaré esta meta.
 
 <center><h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2></center>
 
