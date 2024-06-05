@@ -1,7 +1,6 @@
 # Hola! Soy Oswaldo Alonzo 👋
 Actualmente estoy aprendiendo para poder ser **Frontend Developer**. Mi misión desarrollarme en el mundo de la tecnología, aprovechando al máximo mi camino profesional para el desarrollo de web/apps.
 
-
 ## 🙂 Sobre mi
 Soy apasionado de la programación y el diseño web. Como estudiante autodidacta, disfruto colaborando y resolviendo problemas de programación.
 Mi objetivo es continuar desarrollándome tanto en habilidades de programación como a nivel personal. Me dedico a estudiar y explorar de manera independiente.
