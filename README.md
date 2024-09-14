@@ -1,27 +1,45 @@
-# Hola! Soy Oswaldo Alonzo 👋
-Actualmente estoy aprendiendo para poder ser **Frontend Developer**. Mi misión desarrollarme en el mundo de la tecnología, aprovechando al máximo mi camino profesional para el desarrollo de web/apps.
+# ¡Hola! Soy Oswaldo Alonzo 👋
 
-## 🙂 Sobre mi
-Soy apasionado de la programación y el diseño web. Como estudiante autodidacta, disfruto colaborando y resolviendo problemas de programación.
-Mi objetivo es continuar desarrollándome tanto en habilidades de programación como a nivel personal. Me dedico a estudiar y explorar de manera independiente.
-Llevo más de 1 año aprendiendo programación de manera autodidacta mientras voy compartiendo en redes sociales todo el proceso de aprendizaje. 
-<br />
+## Desarrollador Web Autodidacta en Formación 🚀
+
+Actualmente estoy en camino de convertirme en un **Frontend Developer**. Mi misión es desarrollarme en el mundo de la tecnología, aprovechando al máximo mi trayectoria profesional para el desarrollo de web/apps.
+
+## 🙂 Sobre mí
+
+Soy un apasionado de la programación y el diseño web con más de un año de aprendizaje autodidacta. Disfruto colaborando y resolviendo problemas de programación. Mi objetivo es continuar creciendo tanto en habilidades técnicas como a nivel personal.
 
 - 🤓 45 años siendo nerd
+- 🎯 Mi meta 2024: Ser un desarrollador web activo
+- 📚 Siempre buscando nuevos desafíos y oportunidades de aprendizaje
+- 🌱 Compartiendo mi proceso de aprendizaje en redes sociales
 
-- 🎯 Mi meta 2024: Ser un desallodar web activo.
+## 🛠 Tecnologías y Herramientas
 
-<br/>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 💻 Tecnologías que me gustan
+## 📚 Aprendizaje Continuo
 
-<br />
+Como autodidacta, estoy constantemente explorando y estudiando de manera independiente. Mi pasión por la tecnología me impulsa a mantenerme actualizado con las últimas tendencias y herramientas en el mundo del desarrollo web.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://astro.build" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dfzncn1pd/image/upload/v1673026303/README%20files/vscode-icons_file-type-astro_epmnlg.png" alt="Astro" width="44" height="44"/> </a>
+## 🌱 Crecimiento Constante
 
+Creo firmemente en la importancia de la adaptabilidad en el campo del desarrollo web. Estoy emocionado por las posibilidades que el futuro tiene para ofrecer y siempre estoy abierto a aprender nuevas tecnologías y metodologías.
 
+## 📫 Contacto
 
-</p>
+¿Tienes alguna pregunta o propuesta de colaboración? ¡Me encantaría saber de ti! Puedes encontrarme en:
 
-<br />
+- 🐦 X: [@Rob_Alonzo79](https://twitter.com/Rob_Alonzo79)
+- 💼 LinkedIn: [in/oswaldoalonzo](https://www.linkedin.com/in/oswaldoalonzo)
+- - 🌐 Sitio web: [valitogt79.github.io/](https://valitogt79.github.io/)
+
+No dudes en conectarte conmigo a través de cualquiera de estos canales. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
+
+---
+
+⭐️ From [Oswaldo Alonzo](https://github.com/Valitogt79)
