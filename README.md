@@ -36,7 +36,7 @@ Creo firmemente en la importancia de la adaptabilidad en el campo del desarrollo
 
 - 🐦 X: [@Rob_Alonzo79](https://twitter.com/Rob_Alonzo79)
 - 💼 LinkedIn: [in/oswaldoalonzo](https://www.linkedin.com/in/oswaldoalonzo)
-- - 🌐 Sitio web: [valitogt79.github.io/](https://valitogt79.github.io/)
+- 🌐 Sitio web: [valitogt79.github.io/](https://valitogt79.github.io/)
 
 No dudes en conectarte conmigo a través de cualquiera de estos canales. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
 
