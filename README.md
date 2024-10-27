@@ -1,45 +1,50 @@
-# ¡Hola! Soy Oswaldo Alonzo 👋
+<h1 align="center"><b>Hi , I'm Oswaldo Alonzo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Desarrollador Web Autodidacta en Formación 🚀
+## Self-taught Web Developer in Training 🚀
 
-Actualmente estoy en camino de convertirme en un **Frontend Developer**. Mi misión es desarrollarme en el mundo de la tecnología, aprovechando al máximo mi trayectoria profesional para el desarrollo de web/apps.
+I am currently on my way to becoming a Frontend Developer. My mission is to grow in the tech world, leveraging my professional background to excel in web and app development.
 
-## 🙂 Sobre mí
+## 🙂 About me
 
-Soy un apasionado de la programación y el diseño web con más de un año de aprendizaje autodidacta. Disfruto colaborando y resolviendo problemas de programación. Mi objetivo es continuar creciendo tanto en habilidades técnicas como a nivel personal.
+I’m passionate about programming and web design, with over a year of self-taught learning experience. I enjoy collaborating and solving programming challenges. My goal is to keep growing both in technical skills and on a personal level.
 
-- 🤓 45 años siendo nerd
-- 🎯 Mi meta 2024: Ser un desarrollador web activo
-- 📚 Siempre buscando nuevos desafíos y oportunidades de aprendizaje
-- 🌱 Compartiendo mi proceso de aprendizaje en redes sociales
+🎯 My 2024 Goal: Become an active web developer
+📚 Always seeking new challenges and learning opportunities
+🌱 Sharing my learning journey on social media
 
-## 🛠 Tecnologías y Herramientas
+## 🛠 My Skills Include
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<h4> Languages and Other Tools and Technologies </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+ 
 
-## 📚 Aprendizaje Continuo
 
-Como autodidacta, estoy constantemente explorando y estudiando de manera independiente. Mi pasión por la tecnología me impulsa a mantenerme actualizado con las últimas tendencias y herramientas en el mundo del desarrollo web.
+</span>
 
-## 🌱 Crecimiento Constante
+## Check out my Social Media
 
-Creo firmemente en la importancia de la adaptabilidad en el campo del desarrollo web. Estoy emocionado por las posibilidades que el futuro tiene para ofrecer y siempre estoy abierto a aprender nuevas tecnologías y metodologías.
+<a href="https://x.com/Rob_Alonzo79">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter X">
+</a>
+<a href="https://www.linkedin.com/in/oswaldoalonzo/" >
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+</a>
+<a href="valitogt79.github.io/" >
+  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
+</a>
 
-## 📫 Contacto
 
-¿Tienes alguna pregunta o propuesta de colaboración? ¡Me encantaría saber de ti! Puedes encontrarme en:
+<h2>Github stats:</h2> 
 
-- 🐦 X: [@Rob_Alonzo79](https://twitter.com/Rob_Alonzo79)
-- 💼 LinkedIn: [in/oswaldoalonzo](https://www.linkedin.com/in/oswaldoalonzo)
-- 🌐 Sitio web: [valitogt79.github.io/](https://valitogt79.github.io/)
-
-No dudes en conectarte conmigo a través de cualquiera de estos canales. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
-
----
-
-⭐️ From [Oswaldo Alonzo](https://github.com/Valitogt79)
+[![](https://github-readme-stats.vercel.app/api?username=valitogt79&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valitogt79)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valitogt79&theme=material-palenight)](https://github.com/valitogt79)
+</div>
