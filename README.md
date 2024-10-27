@@ -38,7 +38,7 @@ I’m passionate about programming and web design, with over a year of self-taug
 <a href="https://www.linkedin.com/in/oswaldoalonzo/" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
 </a>
-<a href="valitogt79.github.io/" >
+<a href="https://valitogt79.github.io/" >
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages">
 </a>
 
