@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Oswaldo Alonzo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## Self-taught Web Developer in Training 🚀
+## Self-taught Web Developer in Training 
 
 I am currently on my way to becoming a Frontend Developer. My mission is to grow in the tech world, leveraging my professional background to excel in web and app development.
 
-## 🙂 About me
+## - About me
 
 I’m passionate about programming and web design, with over a year of self-taught learning experience. I enjoy collaborating and solving programming challenges. My goal is to keep growing both in technical skills and on a personal level.
 
@@ -12,7 +12,7 @@ I’m passionate about programming and web design, with over a year of self-taug
 📚 Always seeking new challenges and learning opportunities
 🌱 Sharing my learning journey on social media
 
-## 🛠 My Skills Include
+## - My Skills Include
 
 <h4> Languages and Other Tools and Technologies </h4>
 <span> 
